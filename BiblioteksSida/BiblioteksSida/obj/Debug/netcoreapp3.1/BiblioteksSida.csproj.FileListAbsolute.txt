@@ -1,0 +1,14 @@
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\bin\Debug\netcoreapp3.1\BiblioteksSida.exe
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\bin\Debug\netcoreapp3.1\BiblioteksSida.deps.json
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\bin\Debug\netcoreapp3.1\BiblioteksSida.runtimeconfig.json
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\bin\Debug\netcoreapp3.1\BiblioteksSida.runtimeconfig.dev.json
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\bin\Debug\netcoreapp3.1\BiblioteksSida.dll
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\bin\Debug\netcoreapp3.1\BiblioteksSida.pdb
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.csproj.AssemblyReference.cache
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.AssemblyInfoInputs.cache
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.AssemblyInfo.cs
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.csproj.CoreCompileInputs.cache
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.dll
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.pdb
+C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\obj\Debug\netcoreapp3.1\BiblioteksSida.genruntimeconfig.cache
