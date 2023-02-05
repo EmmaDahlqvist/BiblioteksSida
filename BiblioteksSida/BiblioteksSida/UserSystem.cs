@@ -8,12 +8,13 @@ namespace BiblioteksSida
 {
     class UserSystem
     {
+        //här hanteras alla användar uppgifter/filer
+
         private static UserSystem? instance = null;
 
         string members_file = @"C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\Files\Members.txt";
         string librarians_file = @"C:\Users\evdah\OneDrive\Skrivbord\BiblioteksSida\BiblioteksSida\BiblioteksSida\Files\Librarians.txt";
 
-        //här hanteras alla användar uppgifter/filer
         List<User> members = new List<User>();
         public List<User> GetMembers() { return members; }
 
@@ -74,6 +75,32 @@ namespace BiblioteksSida
                 instance = new UserSystem();
             }
             return instance;
+        }
+
+        public User CheckLogin(List<User> users, string password, string personal_number)
+        {
+            foreach (User user in users)
+            {
+                if (user.password == password && user.personal_number == personal_number)
+                {
+                    return user;
+
+                }
+            }
+            return null;
+        }
+
+        public bool PersonalNumberUnique(string personal_number)
+        {
+            foreach(User user in members)
+            {
+                if(user.personal_number == personal_number)
+                {
+                    return false; //registrering går ej igenom
+                }
+            }
+
+            return true;
         }
     }
 }
